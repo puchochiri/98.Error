@@ -7,3 +7,6 @@
     뜰 시
     롬복 등록할것
     java -jar lombok.jar , Help/About Eclipse IDE에서 확인
+
+
+02. eclipse 최신버전 namespace 안뜨는 문제 Eclipse Market에서"Spring Tools Add-on Spring tools 4.3.9.22 설치--> SPRING IDE 설치
