@@ -1,0 +1,2 @@
+01.
+Incompatible because this component declares an API of a component compatible with Java 17 and the consumer needed a runtime of a component compatible with Java 11
